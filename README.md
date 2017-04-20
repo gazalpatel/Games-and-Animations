@@ -3,10 +3,10 @@ This includes games and animation created using C language and Computer Graphics
 
 # Project Details
 
-Tic Tac Toe : Tic Tac Toe game.
-Where's my Buddy : Find matching buddy game.
-Tower of Hanoi : Tower of Hanoi Data stucture concept as game.
-Laser : Laser Animation.
+1. Tic Tac Toe : Tic Tac Toe game.
+2. Where's my Buddy : Find matching buddy game.
+3. Tower of Hanoi : Tower of Hanoi Data stucture concept as game.
+4. Laser : Laser Animation.
 
 # Repository Version
 
